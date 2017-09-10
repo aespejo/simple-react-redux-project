@@ -1,23 +1,23 @@
-# ReduxSimpleStarter
+# A simple react redux project
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a simple react redux project tutorial from UDEMY created by Stephen. This project will demonstrate the basic use of redux in react project.
 
 ### Getting Started
 
 There are two methods for getting started with this repo.
 
 #### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/aespejo/simple-react-redux-project.git
 > cd ReduxSimpleStarter
 > npm install
 > npm start
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/aespejo/simple-react-redux-project/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
